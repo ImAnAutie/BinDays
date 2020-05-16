@@ -73,7 +73,7 @@ example result:
 }
 
 
-
+### Lookup council
 To check if the postcode is for a council currently supported by the API
 URL: https://us-central1-bindaysapi.cloudfunctions.net/lookupCouncil?postcode=POSTCODE_HERE
 example result: 
