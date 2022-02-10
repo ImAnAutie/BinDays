@@ -14,7 +14,7 @@
     "node": "8"
   },
   "dependencies": {
-    "@googlemaps/google-maps-services-js": "^2.6.0",
+    "@googlemaps/google-maps-services-js": "^3.1.8",
     "cheerio": "^1.0.0-rc.3",
     "fast-xml-parser": "^3.16.0",
     "firebase-admin": "^8.10.0",
